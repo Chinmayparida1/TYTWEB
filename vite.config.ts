@@ -10,7 +10,7 @@ import react from '@vitejs/plugin-react';
 //   //   base: './',
 //   // },
 // });
-
+//vsgwuwenwk
 
 export default defineConfig({
   base: "/TYTWEB/",
